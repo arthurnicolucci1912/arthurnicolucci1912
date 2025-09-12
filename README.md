@@ -8,11 +8,12 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnicolucci1912&layout=compact&hide_border=true&title_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
   <div style="display: inline_block" align="center"><br>
-    <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/ffffff/mysql-logo.png" alt="mysql"/>
-    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="filter: invert(1);" />
     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="filter: invert(1);" />
-    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="filter: invert(1);" />
     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" style="filter: invert(1);" />
+    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="filter: invert(1);" />
+    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="filter: invert(1);" />
+        <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/ffffff/mysql-logo.png" alt="mysql"/>
+    
   </div>
 </div>
 <picture>
